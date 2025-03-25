@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![wmylxmj's github stats](https://github-readme-stats.vercel.app/api?username=wmylxmj)](https://github.com/wmylxmj/github-readme-stats)
+[![wmylxmj's github stats](https://github-readme-stats.vercel.app/api?username=wmylxmj&theme=chartreuse-dark)](https://github.com/wmylxmj/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=wmylxmj&row=1&margin-w=10&theme=transparent)](https://github.com/ryo-ma/github-profile-trophy)
 
