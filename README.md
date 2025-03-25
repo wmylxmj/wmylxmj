@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 -->
 
 [![wmylxmj's github stats](https://github-readme-stats.vercel.app/api?username=wmylxmj&theme=chartreuse-dark)](https://github.com/wmylxmj/github-readme-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=wmylxmj&row=1&margin-w=10&theme=dark_lover)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=wmylxmj&row=1&margin-w=10&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)
 
